@@ -10,7 +10,7 @@ Note: The Final project report, consisting of what I learn from the project and 
 
 ## Contributors
 
-- Seng Chow Choy <sengchow1996@g.ucla.edu>
+- Seng Chow Choy [email](sengchow1996@g.ucla.edu)
 
 ---
 
